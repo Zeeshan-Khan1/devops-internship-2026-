@@ -1,6 +1,5 @@
 # 5. Task 3 — Linux Administration README
 
-```markdown
 # Linux Administration
 
 ## Overview
@@ -36,7 +35,7 @@ Practiced:
 chmod
 chown
 chgrp
-
+```
 
 ### File Permissions & Access Control
 Understood and applied standard Linux permission bits and ownership categories:
