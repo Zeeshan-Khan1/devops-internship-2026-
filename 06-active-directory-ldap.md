@@ -3,7 +3,6 @@
 
 This one is particularly important because it demonstrates your infrastructure learning.
 
-```markdown
 # Active Directory & LDAP
 
 ## Overview
