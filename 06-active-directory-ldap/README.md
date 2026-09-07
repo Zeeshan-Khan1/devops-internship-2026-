@@ -1,6 +1,6 @@
 # Active Directory & LDAP Lab
 
-Hands-on lab setting up a Windows Server 2022 Domain Controller and exploring directory services with LDAP — built as part of my DevOps internship training at Expertflow.
+Hands-on lab setting up a Windows Server 2022 Domain Controller and exploring directory services with LDAP — built as part of my DevOps internship training.
 
 ## Overview
 
