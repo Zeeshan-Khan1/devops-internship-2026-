@@ -69,7 +69,7 @@ Security groups (`IT-Team`, `Finance-Team`) were created and mapped to users acr
 
 ## Screenshots
 
-Screenshots of each step (server login, IP config, ADUC user/group creation, ADSI Edit tree, LDP.exe bind and search results) are available in the full training report PDF.
+Screenshots of each step (server login, IP config, ADUC user/group creation, ADSI Edit tree, LDP.exe bind and search results) are available in the full [training report PDF](./AD-LDAP-Lab-Report.pdf).
 
 ## Key Concepts
 
